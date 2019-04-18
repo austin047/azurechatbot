@@ -1,0 +1,29 @@
+[
+    {
+        "text": "Question 1: As a start can you please tell us more around the documentation of the business process? Select one of the options below",
+        "title": "Business Process Definition",
+        "question_list": [
+            "Detailed, documented process description exist and have been",
+            "High level process description",
+            "No material process documentation"
+        ]
+    },
+    {
+        "text": "Question 2: Are there SME’s available? Select one of the options below:",
+        "title": "Subject Mater Expert",
+        "question_list": [
+            "Detailed, documented process description exist and have been",
+            "High level process description",
+            "No material process documentation"
+        ]
+    },
+    {
+        "text": "Question 4: Are there SME’s available? Select one of the options below:",
+        "title": "Major Mater Expert",
+        "question_list": [
+            "Detailed, documented process description exist and have been",
+            "High level process description",
+            "No material process documentation"
+        ]
+    }
+]
